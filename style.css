@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+}
+section{
+    height: 400px;
+    width: 50%;
+    background-color: antiquewhite;
+    margin: auto;
+    border-radius: 20px;
+}
+h2{
+    padding: 10px;
+}
