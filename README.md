@@ -1,23 +1,27 @@
 # quiz_game
 Quiz Game JS Assignment
     Questions:
-SONGS AND MOVIES
+MOVIES
     1- Which of these songs is Scar's villain song?
         - Be Prepared
         - Be Aware
         - Be a Bear
         - A weembo way
-    2- Which of these songs is Mirabel's "I want song"?
-        - Miracle Magic
-        - When's My Turn
-        - Waiting On a Miracle
-        - Waiting for Magic
+    2- Which of these people is not Mirabel's cousin?
+        - Delores
+        - Isabelle
+        - Camillo
+        - Antonio
     3- Disney's Villainous features many well known and loved villains from many different movies, which of these villains is not featured in a villainous expansion yet?
         - Jafar
         - Syndrome
         - Frollo
         - Horned King
-    4- 
+    4- What is Disney's 2nd highest grossing movie?
+        - Avengers: Endgame
+        - Frozen II
+        - Avengers: Infinity War
+        - Star Wars Ep, VII: The Force Awakens .
 
 DCL
     1- DCL's liners go to many different ports and is currently being leased an island what is the name of the island?
@@ -69,7 +73,11 @@ Disney Parks
         - Disney Sea
         - Animal Kingdom
         - Hollywood Studios
-    2- EPCOT pavillions or what does EPCOT stand for
+    2- What does EPCOT stand for?
+        - Experimental Prototype Community Of Tomorrow
+        - Evolving Practical City Of Tomorrow
+        - Entertainment Park Capital Of Tomorrow
+        - Trick Question
     3- Which of these rides are featured in all of the Disney Theme Parks?
         - Haunted Mansion
         - Tower of Terror

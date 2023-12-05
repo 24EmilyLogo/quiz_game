@@ -1,5 +1,6 @@
 body{
     text-align: center;
+    background-color: #8eb8bb;
 }
 section{
     height: 400px;
@@ -7,19 +8,30 @@ section{
     background-color: #a7cde1;
     margin: auto;
     border-radius: 20px;
+    box-shadow: #004044 10px 10px;
 }
 h2{
     padding: 10px;
+}
+h1, h2, p, button{
+    color:#004044;
 }
 button{
     min-width: 50px;
     min-height: 20px;
     background-color:#a0dacc;
-    border:solid black 1px;
+    border:solid #004044 1px;
+    margin: 5px
 }
-button:hover{
+button:hover:not([disabled]){
+    background:#99c2c5
+}
+button:active:not([disabled]){
     background-color:#8eb8bb;
 }
 #next{
-    margin:200px auto auto;
+    margin:180px auto auto auto;
+}
+#qNum{
+    color:#fcf3d4;
 }
