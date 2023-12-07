@@ -1,44 +1,31 @@
 //1
-const answers = {
+const qAndA = {
     "q1":{
-        correct:"opt1",
-        incorrect:["opt2", "opt3", "opt4"]
+        question:"",
+        opt1:"Be Prepared",
+        opt2:"Be Aware", 
+        opt3:"Be a Bear", 
+        opt4:"The Lion Sleeps Tonight"
     },
     "q2":{
-        correct:"opt2",
-        incorrect:["opt1, opt3, opt4"]
+        opt1:"Delores",
+        opt2:"Isabelle",
+        opt3:"Camillo", 
+        opt4:"Antonio"
     },
     "q3":{
-        correct:"opt3",
-        incorrect:["opt1, opt2, opt4"]
+        opt1:"Jafar",
+        opt2:"Syndrome",
+        opt3:"Frollo",
+        opt4:"Horned King"
     },
     "q4":{
-        correct:"opt4",
-        incorrect:["opt1, opt2, opt3"]
+        correct:"Star Wars Ep. VII: The Force Awakens",
+        incorrect:["Avengers: Endgame", "Frozen II", "Avengers: Infinity War"]
     },
     "q5":{
-        correct:"opt2",
-        incorrect:["opt1, opt3, opt4"]
-    },
-        "q1":{
-        correct:"opt1",
-        incorrect:["opt2", "opt3", "opt4"]
-    },
-    "q2":{
-        correct:"opt2",
-        incorrect:["opt1, opt3, opt4"]
-    },
-    "q3":{
-        correct:"opt3",
-        incorrect:["opt1, opt2, opt4"]
-    },
-    "q4":{
-        correct:"opt4",
-        incorrect:["opt1, opt2, opt3"]
-    },
-    "q5":{
-        correct:"opt2",
-        incorrect:["opt1, opt3, opt4"]
+        correct:"Castaway Cay",
+        incorrect:["Pelican Point", "Imagination Island", "Glimmering Grotto"]
     },
 }
 //variables

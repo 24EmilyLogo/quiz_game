@@ -6,7 +6,7 @@ MOVIES
         - Be Prepared
         - Be Aware
         - Be a Bear
-        - A weembo way
+        - The Lion Sleeps Tonight
     2- Which of these people is not Mirabel's cousin?
         - Delores
         - Isabelle
@@ -21,7 +21,7 @@ MOVIES
         - Avengers: Endgame
         - Frozen II
         - Avengers: Infinity War
-        - Star Wars Ep, VII: The Force Awakens .
+        - Star Wars Ep. VII: The Force Awakens .
 
 DCL
     1- DCL's liners go to many different ports and is currently being leased an island what is the name of the island?
