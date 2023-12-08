@@ -20,12 +20,16 @@ const qAndA = {
         opt4:"Horned King"
     },
     "q4":{
-        correct:"Star Wars Ep. VII: The Force Awakens",
-        incorrect:["Avengers: Endgame", "Frozen II", "Avengers: Infinity War"]
+        opt1:"Avengers: Endgame",
+        opt2:"Frozen II",
+        opt3:"Avengers: Infinity War",
+        opt4:"Star Wars Ep. VII: The Force Awakens",
     },
     "q5":{
-        correct:"Castaway Cay",
-        incorrect:["Pelican Point", "Imagination Island", "Glimmering Grotto"]
+        opt1:"Pelican Point",
+        opt2:"Castaway Cay",
+        opt3:"Imagination Island", 
+        opt4:"Glimmering Grotto"
     },
 }
 //variables
