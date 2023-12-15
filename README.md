@@ -1,6 +1,12 @@
 # quiz_game
+WARNING: THIS FILE (README.md) HAS ANSWERS TO THE QUESTIONS
 Quiz Game JS Assignment
     Questions:
+.
+.
+.
+
+
 MOVIES
     1- Which of these songs is Scar's villain song?
         - Be Prepared
