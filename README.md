@@ -51,30 +51,30 @@ DCL
         - 2102 1/2
         - 3182 1/2
 
-Name That Tune!
-    1- ?
+//Name That Tune!
+    //1- ?
         - God Help the Outcasts
         - Bells of Notre Dame
         - Hellfire.
         - Topsy Turvy
-    2- ?
+    //2- ?
         - The Family Madrigal
         - All of You.
         - We Don't Talk About Bruno
         - Surface Pressure
-    3- ?
+    //3- ?
         - Can You Feel the Love Tonight
         - I Just Can't Wait to Be King
         - Circle of Life
         - Hakunah Matata.
-    4- ?
+    //4- ?
         - Look Through My Eyes
         - On My Way.
         - No Way Out
         - Welcome to Our Family
 
 Disney Parks
-    1- There are four Disney Theme Parks in Florida, which of these is not a Florida Park?
+    //1- There are four Disney Theme Parks in Florida, which of these is not a Florida Park?
         - Magic Kingdom
         - Disney Sea
         - Animal Kingdom
@@ -84,7 +84,7 @@ Disney Parks
         - Evolving Practical City Of Tomorrow
         - Entertainment Park Capital Of Tomorrow
         - Trick Question
-    3- Which of these rides are featured in all of the Disney Theme Parks?
+    //3- Which of these rides are featured in all of the Disney Theme Parks?
         - Haunted Mansion
         - Tower of Terror
         - Small World
